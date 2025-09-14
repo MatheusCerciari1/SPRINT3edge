@@ -6,7 +6,11 @@ Contagem de gols em tempo real com IoT
 Arduino + sensor de movimento + buzzer + Node-RED para registrar gols e mostrar o total em painel interativo.
 
 👥 Integrantes
-
+Matheus Cerciari Reis RM-565817
+Henrique Vicente Vicente RM-564116
+Arthur Gaspare Gil RM-555764
+Anna Clara Ruggeri da Silva RM-565553
+Luis Gustavo Vansconcelos Costa RM-566023 
 
 
 🧩 Componentes
