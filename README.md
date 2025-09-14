@@ -24,7 +24,7 @@ O Gauge mostrará o total de gols; o buzzer soa a cada gol.
 
 Links:
 Simulação Wokwi: https://wokwi.com/projects/441934975598714881
-Vídeo YouTube: 
+Vídeo YouTube: https://youtu.be/fkyZQ9pIUIY
 
 📌 Resumo
 
